@@ -9,6 +9,7 @@ Hello mangal in main branch
 Hello rebase buddy main
 checking for the rebase practice
 
+Hello developer
 
 
 creatig conflict feature
