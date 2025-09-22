@@ -6,7 +6,7 @@ Hello feature krishna 2
 
 conflict line check
 Hello mangal in main branch
-
+Hello rebase buddy main
 
 
 Hello Shailesh After feature branch in main
