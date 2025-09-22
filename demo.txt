@@ -4,6 +4,7 @@ Hello Shailesh 3
 Hello feature krishna 1
 Hello feature krishna 2
 
+conflict line check
 Hello mangal in main branch
 
 
