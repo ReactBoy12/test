@@ -5,6 +5,8 @@ Hello feature krishna 1
 Hello feature krishna 2
 
 conflict line check
+let me check for the conflict line 2
+
 Hello mangal in main branch
 Hello rebase buddy main
 checking for the rebase practice
