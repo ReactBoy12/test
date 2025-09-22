@@ -10,4 +10,6 @@ Hello rebase buddy main
 checking for the rebase practice
 
 
+
+creatig conflict feature
 Hello Shailesh After feature branch in main
