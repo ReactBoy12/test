@@ -7,8 +7,8 @@ export default function Counter() {
   return (
     <div>
       <h1 data-testid="count-value">{count}</h1>
-      <button className="inc" onClick={() => setCount(count + 1)}>Increment</button>
-      <button className="dec"  onClick={() => setCount(count - 1)}>Decrement</button>
+      <button className="inc" autoFocus="true" onClick={() => setCount(count + 1)}>Increment</button>
+      <button className="dec" autoFocus="true"  onClick={() => setCount(count - 1)}>Decrement</button>
     </div>
   );
 }
