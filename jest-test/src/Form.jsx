@@ -20,6 +20,7 @@ export default function Form({ onLogin }) {
 
       
       <input
+         data-testid="user"
         type="text"
         placeholder="Enter username"
         value={username}
@@ -27,6 +28,7 @@ export default function Form({ onLogin }) {
       />
 
       <input
+        data-testid="pass"
         type="password"
         placeholder="Enter password"
         value={password}
